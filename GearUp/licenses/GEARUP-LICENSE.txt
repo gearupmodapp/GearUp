@@ -1,0 +1,36 @@
+GearUp Open Source Notice
+=========================
+
+GearUp is open source software and is offered for free.
+
+Free and use
+------------
+
+The use of GearUp is completely free.
+No payment is required to install, run, or use GearUp.
+
+Privacy and data
+----------------
+
+GearUp does not collect personal data or usage data.
+All operations are performed locally on the user's device.
+
+Clarification
+-------------
+
+This document serves an informational and transparency purpose for the GearUp project.
+
+User Responsibility
+-------------------
+
+The author is not responsible for any actions taken by users after downloading or using GearUp. GearUp is provided strictly for personal and educational purposes.
+
+Non-Affiliation
+---------------
+
+GearUp is an independent, unofficial fan-made project. It is NOT affiliated with, endorsed, sponsored, or approved by Namco, Eutechnyx, or any other entities associated with the Street Racing Syndicate franchise. All trademarks and copyrights belong to their respective owners.
+
+No Warranty ("As Is")
+---------------------
+
+The software is provided "AS IS", without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and non-infringement. In no event shall the authors be liable for any claim, damages, or other liability, whether in an action of contract, tort, or otherwise, arising from, out of, or in connection with the software or the use or other dealings in the software.
